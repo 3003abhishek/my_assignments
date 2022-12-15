@@ -1,0 +1,10 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color:rgb(236, 215, 215);
+}
+
+.nav_tag{
+    text-decoration: none;
+}
+
