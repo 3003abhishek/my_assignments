@@ -7,7 +7,7 @@ function Cart(){
     let get_cart_data=async()=>{
      let res=await fetch("http://localhost:8080/cart_products");
      res=await res.json();
-     console.log(res);
+    //  console.log(res);
      setCart_data(res);
     }
 

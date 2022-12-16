@@ -93,10 +93,46 @@
       "id": 6
     },
     {
+      "id": 3,
+      "title": "Amazing Questions & Answers Science",
+      "img": "https://m.media-amazon.com/images/I/81Gbz0XnW7L._AC_UY327_FMwebp_QL65_.jpg",
+      "price": 143
+    },
+    {
+      "id": 9,
+      "title": "Blossom Moral Story Book for Ks ",
+      "img": "https://m.media-amazon.com/images/I/7122h3jWvEL._AC_UY327_FMwebp_QL65_.jpg",
+      "price": 80
+    },
+    {
+      "id": 2,
+      "title": "108 Panchatantra Stories",
+      "img": "https://m.media-amazon.com/images/I/71rmxx8P2qL._AC_UY327_FMwebp_QL65_.jpg",
+      "price": 98
+    },
+    {
+      "id": 11,
+      "title": "Willy the Silly Panda",
+      "img": "https://m.media-amazon.com/images/I/71-ocPGQIJL._AC_UY327_FMwebp_QL65_.jpg",
+      "price": 120
+    },
+    {
+      "id": 12,
+      "title": "Grandma's Bag of Stories",
+      "img": "https://m.media-amazon.com/images/I/81jv44QdNwL._AC_UY327_FMwebp_QL65_.jpg",
+      "price": 157
+    },
+    {
       "id": 5,
       "title": "My First 1000 Words",
       "img": "https://m.media-amazon.com/images/I/71O-FI7QApL._AC_UY327_FMwebp_QL65_.jpg",
       "price": 149
+    },
+    {
+      "id": 7,
+      "title": "Pre-School Activities Pack ",
+      "img": "https://m.media-amazon.com/images/I/913sv4sex3L._AC_UY327_FMwebp_QL65_.jpg",
+      "price": 693
     }
   ]
 }
